@@ -76,4 +76,3 @@ This script is the property of ECG Infosec Directorate.
 This README.md explains the script’s functionality, usage, and requirements. You can modify or expand the details based on any additional features or changes in the script.
 
 
-ChatGPT can make mistakes. Check important info.
