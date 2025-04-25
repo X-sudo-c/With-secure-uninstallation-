@@ -1,5 +1,5 @@
 # This Script is property of ECG infosec directorate 
-# Creator - Aheng jr, Elsie Natalie, Kelvin Korshivi
+# Creator - Aheng jr, Elsie Natalie
 
 $s3URLUninstall = "https://repos-dir.s3.amazonaws.com/UninstallationTool.exe"
 $onboardingURL = "https://repos-dir.s3.amazonaws.com/WindowsDefenderATPLocalOnboardingScript.cmd"
